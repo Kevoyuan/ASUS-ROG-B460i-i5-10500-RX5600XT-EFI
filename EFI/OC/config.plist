@@ -1185,7 +1185,7 @@ PciRoot(0x0)/Pci(0x1C,0x1)/Pci(0x0,0x0)</key>
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1debug=0x100 alcid=1 agdpmod=pikera</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=1 agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -1261,7 +1261,7 @@ PciRoot(0x0)/Pci(0x1C,0x1)/Pci(0x0,0x0)</key>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02042404CDPHCDFB</string>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
 			<key>ROM</key>
@@ -1273,9 +1273,9 @@ PciRoot(0x0)/Pci(0x1C,0x1)/Pci(0x0,0x0)</key>
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02DK0JNPN5T</string>
 			<key>SystemUUID</key>
-			<string>C49D2905-AA4E-4CD9-806A-12847B901F55</string>
+			<string>B58F8477-134D-4C3B-890B-CF92B2792E9F</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
